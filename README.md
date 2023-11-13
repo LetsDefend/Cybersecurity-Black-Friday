@@ -24,7 +24,7 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
 ## Newsletters
 - **LetsDefend:** Cybersecurity Weekly Newsletter - $5 instead of $100
   - **Link:** [letsdefend/newsletter](https://letsdefend.io/cybersecurity-news.html)
-  - **50% Discount Code:** BLCKFRDY-NEWS
+  - **95% Discount Code:** BLCKFRDY-NEWS
   - **End Date:** November 30, 2023
 
 ## Professional Services
