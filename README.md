@@ -7,7 +7,6 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
 ## Table of Contents
 - [Courses & Training](#courses--training)
 - [Newsletters](#newsletters)
-- [Professional Services](#professional-services)
 - [VPN Services](#vpn-services)
 - [Tools](#tools)
 - [Hardware](#hardware)
@@ -21,23 +20,98 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **50% Discount Code:** BLCKFRDY
   - **End Date:** November 30, 2023
 
+ - **DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training):**
+   - **Link:** [DroneSec Bundle](https://training.dronesec.com/p/bundle)
+   - **Discount:** 20% off
+   - **Discount Code:** GIVETHANKS23
+   - **Deal Valid:** November 22-30
+
+- **Practical DevSecOps - Hands-on DevSecOps and Product Security Courses:**
+  - **Link:** [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/)
+  - **Discount:** 15% off all courses
+  - **End Date:** November 30th
+
+- **The Cyber Plumber's Lab Guide and Access:**
+  - **Link:** [Cyber Plumber's Lab Guide](https://opsdisk.gumroad.com/l/cphlab/blackfriday2023)
+  - **Discount Options:**
+    1. 33% off ($13.37 USD) + free handbook
+    2. 75% off for students
+  - **Discount Code:** BLACKFRIDAY2023
+  - **End Date:** December
+
+- **7asecurity (Security 100% Hands-On Training):**
+  - **Link:** [7asecurity Courses](https://store.7asecurity.com)
+  - **Discount:** 50% off any course
+  - **Discount Code:** BFCM50
+  - **Deal Valid:** November 15 - December 5
+
+
+
 ## Newsletters
 - **LetsDefend:** Cybersecurity Weekly Newsletter - $5 instead of $100
   - **Link:** [letsdefend/newsletter](https://letsdefend.io/cybersecurity-news.html)
   - **95% Discount Code:** BLCKFRDY-NEWS
   - **End Date:** November 30, 2023
 
-## Professional Services
-- [Example Course Deal 1](link)
-- [Example Course Deal 2](link)
+ 
+- **Return on Security Subscription**
+  - **Link:** [https://www.returnonsecurity.com/upgrade?offer_id=3fde9e85-dc7c-48a6-94c4-c350db62504a](https://www.returnonsecurity.com/upgrade?offer_id=3fde9e85-dc7c-48a6-94c4-c350db62504a)
+  - **95% Discount Code:** 25% off ($74.00 instead of $99)
+  - **End Date:** 30th November
+ 
 
 ## VPN Services
-- [Example VPN Deal 1](link)
-- [Example VPN Deal 2](link)
+**BitDefender:** Up to 30% off
+  - **Link:** [BitDefender](https://www.bitdefender.com/solutions)
+  - **Discount Code:** No code needed
+  - **End Date:** Ongoing
+
+**Proton Privacy Tools (Mail, Pass, VPN):** 33%-66% off
+  - **Link:** [Proton Privacy Tools](https://proton.me/support/black-friday-2023)
+  - **Discount Code:** No code needed
+  - **End Date:** December 4, 2023
+
+**NordVPN:** 69% off and 3 months free
+  - **Link:** [NordVPN](https://nordvpn.com/offer)
+  - **Discount Code:** No code needed
+  - **End Date:** Ongoing
+
+**Intego Mac Antivirus and Security:** 65% off
+  - **Link:** [Intego Mac Antivirus](https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1)
+  - **Discount Code:** No code needed
+  - **End Date:** December 31, 2023
+
+**Surfshark VPN:** 80% off and up to 5 months free
+  - **Link:** [Surfshark VPN](https://surfshark.com/deal/blackfriday)
+  - **Discount Code:** No code needed
+  - **End Date:** November 26, 2023
 
 ## Tools
-- [Example VPN Deal 1](link)
-- [Example VPN Deal 2](link)
+- **PortDroid - A Swiss Army Knife of Network Security Tools for Android:**
+  - **Link:** [PortDroid](https://portdroid.net/black-friday-2023/)
+  - **Discount:** 50% off lifetime version
+  - **Discount Code:** CYBER_2023
+  - **End Date:** December 4th
+
+- **GrayhatWarfare Open Bucket & shorturl Secrets:**
+  - **Link:** [GrayhatWarfare Packages](https://grayhatwarfare.com/packages)
+  - **Discount Options:**
+    - 40% off Premium ($200 down from $370)
+    - 40% off Enterprise ($560 down from $1190)
+  - **Deal Status:** Live now
+
+- **PulseDive Threat Intelligence:**
+  - **Link:** [PulseDive](https://pulsedive.com/about/enterprise)
+  - **Discount:** 50% off for 6 months
+  - **Discount Code:** BLACKFRIDAY23
+  - **End Date:** November 26th
+
+- **SecureStack DevSecOps:**
+  - **Link:** [SecureStack](https://securestack.com/black-friday-sale)
+  - **Discount:** 50% off for 12 months
+  - **Discount Code:** BLACKFRIDAY23WOW
+  - **End Date:** December 2nd
+
 
 ## Hardware
 - [Example VPN Deal 1](link)
@@ -48,8 +122,19 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
 - [Example VPN Deal 2](link)
 
 ## Games
-- [Example VPN Deal 1](link)
-- [Example VPN Deal 2](link)
+- **Elevation of Privilege Card Game:**
+  - **Link:** [Elevation of Privilege Game](https://agilestationery.com/products/elevation-of-privilege-game)
+  - **Discount Options:**
+    1. 15% off with code: CYBER15
+    2. 30% off 3 or more items with code: CYBER30
+
+- **SecDim Attack and Defence Wargames:**
+  - **Link:** [SecDim](https://secdim.com)
+  - **Discount Options:**
+    1. 25% off annual Professional plan
+    2. 35% off annual Professional plan when you reply [here](https://discuss.secdim.com/t/35-off-annual-professional-plan/1568)
+  - **End Date:** December 1st
+
 
 ## Contributing
 
