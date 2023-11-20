@@ -87,6 +87,11 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **End Date:** November 26, 2023
 
 ## Tools
+- **Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits**
+  - **Link:** [Exploit Pack](https://exploitpack.com/order.html)
+  - **Discount:** Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)
+  - **End Date:** 26th November
+
 - **PortDroid - A Swiss Army Knife of Network Security Tools for Android:**
   - **Link:** [PortDroid](https://portdroid.net/black-friday-2023/)
   - **Discount:** 50% off lifetime version
