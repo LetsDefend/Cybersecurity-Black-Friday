@@ -117,6 +117,12 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **Discount Code:** BLACKFRIDAY23WOW
   - **End Date:** December 2nd
 
+  - **Security For Everyone:**
+  - **Link:** [S4E](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off)
+  - **Discount:** 50% off
+  - **Discount Code:** BlackFriday50
+  - **End Date:** December 30th
+
 
 ## Hardware
 - [Example VPN Deal 1](link)
