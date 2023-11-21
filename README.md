@@ -121,7 +121,7 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **Link:** [S4E](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off)
   - **Discount:** 50% off
   - **Discount Code:** BlackFriday50
-  - **End Date:** December 1st
+  - **End Date:** December 30th
 
 
 ## Hardware
