@@ -129,6 +129,12 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **Discount Code:** BlackFriday50
   - **End Date:** December 30th
 
+- **PDFPeer: Chat with any PDF in seconds!**
+  - **Link:** [PDFPeer](https://pdfpeer.com)
+  - **Discount:** 50% off on all unlimited plans
+  - **Discount Code:** BF50
+  - **End Date:** December 2nd
+
 
 ## Hardware
 - [Example VPN Deal 1](link)
