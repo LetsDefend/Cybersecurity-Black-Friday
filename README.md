@@ -87,6 +87,12 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **End Date:** November 26, 2023
 
 ## Tools
+- **DOCGuard - Malware Analysis Tool**
+  - **Link:** https://app.docguard.io/pricing
+  - **Discount:** 50%
+  - **Discount Code:** BLCKFRDY
+  - **Deal ends:** 2nd December
+
 - **Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits**
   - **Link:** [Exploit Pack](https://exploitpack.com/order.html)
   - **Discount:** Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)
