@@ -128,6 +128,12 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **Discount:** 50% off
   - **Discount Code:** BlackFriday50
   - **End Date:** December 30th
+ 
+- **UnderDefense - Your One-Stop Shop for Better, Easier, and Faster Cybersecurity:**
+  - **Link:** [UnderDefense](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023)
+  - **Discount:** 25% off
+  - **Discount Code:** --
+  - **End Date:** December 5th
 
 
 ## Hardware
